@@ -1,0 +1,995 @@
+char
+pike
+sea trout
+steelhead
+haddock
+walleye
+bass
+brook trout
+herring
+trutta
+pollock
+bullhead
+halibut
+order siluriformes
+smallmouth bass
+muskellunge
+sunfish
+bluegill
+crappie
+largemouth bass
+rock bass
+whiting
+mackerel
+lake trout
+rainbow trout
+burbot
+salvelinus
+tuna
+chain pickerel
+channel catfish
+pumpkinseed
+kokanee salmon
+pickerel
+roach
+sturgeon
+tilapia
+oncorhynchus mykiss
+flounder
+sardines
+hake
+whitefish
+arctic char
+swordfish
+carp
+sucker
+mouth bass
+plaice
+eels
+bream
+lake whitefish
+flatfish
+bull trout
+anchovies
+sauger
+turbot
+lamprey
+fluviatilis
+grayling
+suckers
+coho salmon
+chub
+saithe
+ling
+cyprinus carpio
+minnows
+chinook salmon
+bluefish
+white crappie
+capelin
+atlantic salmon
+dace
+zander
+tench
+game fish
+sea bass
+bullheads
+redear sunfish
+bluegills
+rainbow
+american eel
+marlin
+pacific lamprey
+lucius
+brown trout
+salar
+anchovy
+northern pike
+stickleback
+mullet
+sockeye salmon
+rainbow smelt
+crappies
+shad
+mahi mahi
+pilchards
+anguilla rostrata
+cutthroat
+cutthroat trout
+salmonids
+smelt
+goldfish
+bowfin
+menhaden
+gudgeon
+sardine
+sprat
+snapper
+bonito
+micropterus salmoides
+shiner
+grouper
+rudd
+violet
+alpinus
+sailfish
+wels catfish
+lepomis gibbosus
+barbel
+creek chub
+grass carp
+silver perch
+salvelinus namaycush
+wahoo
+arctic grayling
+warmouth
+mountain whitefish
+gar
+fish species
+minnow
+brook
+shiners
+coho
+alewife
+tuna products
+chinook
+esox lucius
+saugeye
+sea bream
+coalfish
+cisco
+perca flavescens
+cichlids
+salmonid collection
+lampreys
+sculpin
+freshwater drum
+sockeye
+sprats
+water species
+chum
+lepomis macrochirus
+white perch
+perca fluviatilis
+tiger shark
+ctenopharyngodon idella
+smallmouth
+trout species
+oncorhynchus kisutch
+dory
+kokanee
+dolly varden trout
+barramundi
+herrings
+vendace
+blacknose dace
+gourami
+musky
+lake sturgeon
+head bream
+oncorhynchus tshawytscha
+salmo salar
+fallfish
+pumpkinseeds
+largemouth
+billfish
+yellow perch
+confluentus
+morone saxatilis
+splake
+drum
+pylodictis olivaris
+ruffe
+tiger muskellunge
+redfish
+micropterus dolomieu
+gourd
+macquarie perch
+oncorhynchus
+ray species
+dorado
+mudminnow
+skate
+american shad
+silurus glanis
+hagfish
+oreochromis niloticus
+zebrafish
+prionace glauca
+chubs
+brown
+orfe
+charr
+whirling disease
+hardhead
+carassius carassius
+elver passes
+crucian carp
+tinca
+sculpins
+goatfish
+gizzard shad
+gill
+pikes
+macrochirus
+nile tilapia
+fly
+thunnus albacares
+loaches
+koi
+shads
+gasterosteus aculeatus
+perches
+yellowtail
+oreochromis aureus
+porgy
+ictalurus punctatus
+snook
+nile perch
+kingfish
+carps
+sea lamprey
+lepomis cyanellus
+pollack
+masquinongy
+bull shark
+butterfish
+paddlefish
+lingcod
+predator
+mooneye
+pikeminnow
+chlamydoselachus anguineus
+brook stickleback
+flounders
+feeders
+albacore
+suckerfish
+sand eel
+catostomus commersonii
+runs
+ambloplites rupestris
+salvelinus malma
+ray
+fillet
+silurus asotus
+goby
+muskie
+sticklebacks
+lumpsucker
+ruffes
+mullets
+weakfish
+tarpon
+groundfish
+family clupeidae
+alaska blackfish
+dolly varden
+pink
+croaker
+sturgeons
+killifish
+order siluriformes family doradidae
+pollan
+lepisosteus oculatus
+bush
+brook lamprey
+gobies
+green sunfish
+silversides
+amia calva
+varden
+cobitis taenia
+tullibee
+sea perch
+auratus
+wrasse
+dolphinfish
+micropterus
+catfishes
+family etmopteridae
+mugil cephalus
+beluga
+sander lucioperca
+gurnard
+family cyprinidae
+asp
+redfin perch
+river lamprey
+feeder
+pikeperches
+rubrofuscus
+hornpout
+bichirs
+food source
+cobia
+salmo
+xiphias gladius
+shellcracker
+lox
+sewin
+pusi ali
+kilograms
+walleyes
+swimmers
+family salmonidae
+sonora
+dolly varden char
+nase
+bairdiella chrysoura
+family ariidae
+antarcticus
+finnage
+pike perch
+ameiurus natalis
+oncorhynchus gorbuscha
+osmerus mordax
+chars
+raphael catfish
+cyprinids
+gars
+predators
+sheepshead
+monkfish
+gamefish
+madtoms
+gabe
+family bagridae
+epinephelinae
+paddlefishes
+divers
+bigmouth buffalo
+tetras
+scad
+cunner
+family pleuronectidae
+shortfin mako
+thymallus arcticus
+siluriformes
+carite
+jacks
+fish farms
+stoneroller
+grass pickerel
+dogfish
+aythya
+arctic charr
+allie
+linnaeus
+california roach
+longnose
+harpoon
+lates
+red prinia
+thymallus thymallus
+amberjack
+hagfishes
+brill
+kakap merah
+carnivores
+catches
+engraulis encrasicolus
+clarias gariepinus
+anglers
+family pimelodidae
+trevallies
+pomfret
+oncorhynchus clarki
+baits
+hybrid
+appearance
+saury
+subspecies
+abramis brama
+family ophidiidae
+apex predator
+hoki
+polyodon spathula
+smelts
+catshark
+scombridae
+aplodinotus
+mouthbrooders
+longear sunfish
+muskies
+ameiurus melas
+micromesistius poutassou
+sole
+seabass
+gustation
+alosa pseudoharengus
+trout inhabit
+lutjanus bohar
+leuciscus cephalus
+salmonidae
+gaspereau
+scardinius
+lures
+macki
+snappers
+megachasma pelagios
+porbeagle
+ide
+walbaum
+sand lance
+habits
+knifefishes
+mossambicus
+teleosts
+hakes
+bait
+cautus
+trutta fario
+guppies
+eurasian ruffe
+brown bullhead
+marlins
+phoxinus
+chubb
+sardinops
+chips
+barbus
+teleostei
+leuciscus
+tautog
+family loricariidae
+anguilliformes
+rollmops
+coregonus clupeaformis
+macquaria australasica
+seatrout
+delicacy
+stone loach
+dicentrarchus labrax
+rutilus
+family soleidae
+squalius
+nemo
+westslope cutthroat
+ictaluridae
+lutjanus campechanus
+spawn
+clownfish
+hectare
+snorkelers
+pennsylvania fish boat commission
+kisutch
+bonefish
+tui chub
+bluefin
+jackfish
+squalius cephalus
+bonitos
+tope
+corvina
+triggerfish
+sarda
+cycleptus
+platichthys
+finfish
+shrikes
+lampern
+redfin
+ingredient
+anguilla anguilla
+fathead
+bottom feeders
+threespine stickleback
+pari
+croakers
+roe
+trutta trutta
+jau
+freshwater whitefish
+mullus surmuletus
+saratoga
+makaira indica
+oncorhynchus keta
+sunfishes
+oreochromis mossambicus
+redfin pickerel
+puget sound
+fillets
+ameiurus nebulosus
+osseus
+ocean sunfish
+flatheads
+trolling
+opah
+orange roughy
+wiper
+merluccid hakes
+tier predator
+rasboras
+barbels
+order salmoniformes
+blackchin shiner
+inconnu
+xyrauchen texanus
+cyprinidae
+grunts
+pers
+bullfrogs
+cerebralis
+mugil
+fishermen
+family somniosidae
+suckermouth catfish
+pumpkinseed sunfish
+eelpout
+formaldehyde
+mad
+life cycle
+percidae
+eelpouts
+turtle
+eel catfish
+coloration
+medaka
+mullus barbatus
+neck
+magur
+salmons
+fluke
+ambloplites
+rhinichthys atratulus
+allies
+family auchenipteridae
+capelin roe
+bloater
+dentex
+blacknose
+food chain
+hatcheries
+pompano
+callichthyinae
+pangasius
+basal member
+cabezone
+pleuronectes platessa
+filter feeders
+sheefish
+chin
+scavengers
+order cypriniformes
+underparts
+clupeoids
+hooks
+stone moroko
+pomoxis nigromaculatus
+tunny
+coregonus lavaretus
+planeri
+freshwater
+epinephelus akaara
+smolts
+stingray
+ellen degeneres
+loricariids
+loricariidae
+pompanos
+spotted
+genus anguilla
+alewives
+ictalurus furcatus
+family centrarchidae
+surfperch
+family ictaluridae
+trouts
+catching
+gouramis
+egg layer
+gill slits
+ariopsis felis
+hilsa
+kilometer
+genus rhizoprionodon
+gobio
+acipenseriformes
+flesh
+cypriniformes
+rainbows
+baccalà
+logperch
+can
+conservationists
+family labridae
+laland
+petromyzon
+danios
+black crappie
+strains
+spawners
+freshwater gamefish
+family akysidae
+hook
+tiger muskie
+apache
+stonecat
+river blackfish
+spots
+ictalurids
+reaches
+barry blackler
+eyespots
+lure
+tan
+tomcod
+angler
+run
+rutilus rutilus
+soles
+mykiss
+topminnow
+pleco
+wrasses
+micropterus punctulatus
+barbus barbus
+scutes
+spearfishermen
+barbs
+carassius
+sporting qualities
+caviar
+scales
+bushshrikes
+coelacanth
+prinia erythroptera
+graylings
+humans
+alligator gar
+mangrove jack
+gurnards
+pairs
+bleak
+olive
+ikan bilis
+cladoselache
+campostoma anomalum
+family serranidae
+family pangasiidae
+bowfins
+redhorse
+snout
+blotches
+cobitidae
+subdivision_ranks
+corydoras
+characins
+parasites
+tits
+mulloway
+acipenser gueldenstaedtii
+alosa
+pelagics
+slender
+pouting
+loch
+tatsurion
+basa
+appetizer
+codfish
+genus parauchenoglanis
+hunters
+groups
+organs
+sauries
+flies
+scavenger
+powan
+slits
+tadpole madtom
+coregonus albula
+weatherfish
+dorsal
+family carangidae
+richard epcar
+gymnotiformes
+livebearers
+stomach contents
+knifefish
+kahawai
+generations
+grand banks
+sawshark
+stream
+family xiphiidae
+diets
+life stages
+pouches
+blues
+seriola lalandi
+broadcast spawners
+tail
+galaxiids
+premaxilla
+family heterodontidae
+kangitneq
+family scyliorhinidae
+houa nhai
+lego movie
+henneguya infestation
+salmon roe
+blennies
+omnivores
+mollies
+apex predators
+halfbeaks
+rod
+pullers
+subpopulation
+bess
+wels
+scombroids
+madtom
+browns
+callichthyidae
+llyn llyw
+food item
+anisakis
+angelfish
+hypentelium nigricans
+alligator
+conger
+seriola dumerili
+|habitat
+gills
+tank
+piscivores
+gatherers
+reel
+international game fish association
+mugilidae
+fisherman
+brackish
+jaw
+fighters
+mummichog
+family endemic
+family astroblepidae
+flanks
+creek chubsucker
+pursuit
+daces
+take
+fin disc
+dab
+specimens
+family squalidae
+keta
+tridentata
+gambusia affinis
+carcharhinus leucas
+body shape
+individuals
+belly
+nannygai
+scotch run
+oxyrinchus
+rostrum
+stripes
+flavour
+ikura
+mannerisms
+grays
+caudal
+inbreeding
+taxidermy expert
+line
+salvelinus alpinus
+arcticus
+clupea harengus
+piranhas
+color
+whiskers
+goldfishes
+kasili
+pollachius
+centrarchids
+sterlet
+alburnus
+order perciformes
+póvoa varzim
+boaters
+aquarium
+grey
+rainbow cutthroat hybrids
+shark pilot
+stripe
+barb
+hybrids
+labroides
+adult specimens
+behavior
+colour
+eocene text
+loch leven
+danionins
+trent
+pliocene text
+paleocene text
+eulachon
+lepisosteus
+miocene text
+neogene text
+pleistocene text
+rows
+holosteans
+speckles
+back
+paleogene text
+porgies
+lifespan
+hue
+chrysemys picta
+nose
+milkfish
+scuba divers
+tangs
+parasite
+oligocene text
+underside
+markings
+traps
+raja
+teeth
+native
+unagi
+swordtails
+paler
+drongos
+stockings
+tusk
+gobio gobio
+neogene
+plio
+scardinius erythrophthalmus
+barbatula barbatula
+maxilla
+head
+pleist
+bettas
+lepomis
+throat
+eocene bar
+sides
+membrane
+profile
+paleogene
+miocene bar
+breast
+esox masquinongy
+humpbacks
+slimy sculpin
+creek
+jaws
+tackle
+net
+text
+pattern
+chisel teeth
+stimulus
+denticles
+appendages
+row
+lowc bar
+bairdi
+filament
+fario
+cutthroats
+green
+yellow
+trappers
+mouth
+texture
+miocene
+shedd aquarium
+scads
+kype
+align
+holocene text
+skin
+leiopotherapon unicolor
+family
+annularis
+paleocene
+sacramento squawfish
+bigeye
+swim bladder
+wallaby
+bellies
+cutbow
+seabream
+spinners
+eocene
+tooth rows
+dots
+greys
+host
+edges
+family callichthyidae
+malma
+upperparts
+ameiurus catus
+kladovo
+pair
+creek chubs
+wild
+male
+lip
+bar
+moggel
+cycloid
+family lutjanidae
+esca
+center textcolor
+gill nets
+mandible
+tip
+lips
+medium
+pliocene bar
+aggregations
+killifishes
+drums
+patch
+corocoro
+competitors
+reels
+eye
+nostrils
+genus oncorhynchus
+dorosoma petenense
+hosts
+captivity
+space bar
+streaks
+behaviors
+thorax
+respects
+laridae
+pores
+spikes
+top;"|
+abdomen
+nam1
+lamna nasus
+sizes
+dorsal surface
+bands
+fontsize
+klamath
+photophores
+backs
+margins
+lobe
+cone cells
+background
+insectivores
+phalacrocoracidae
+eratop
+osmeriformes
+nets
+disc
+bony plates
+front
+narwhal
+numbers
+size
+tongue
+centrarchidae
+tinge
+silvery
+inches
+snouts
+shift:(-8,5
+sinensis
+pole
+female
+paleo
+corydoradinae sub
+iridescence
+flavor
+melanophores
+tang
+black;"|

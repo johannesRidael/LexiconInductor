@@ -1,0 +1,6 @@
+species
+gills
+predators
+fin
+cycle
+habits

@@ -1,0 +1,265 @@
+abramis brama
+acipenser gueldenstaedtii
+ahi
+alaska blackfish
+alligator gar
+alosa pseudoharengus
+amberjack
+amberjacks
+ambloplites rupestris
+ameiurus catus
+ameiurus melas
+ameiurus natalis
+ameiurus nebulosus
+american eel
+american shad
+amia calva
+anguilla anguilla
+anguilla rostrata
+arctic char
+arctic charr
+arctic grayling
+ariopsis felis
+atlantic cod
+atlantic mackerel
+atlantic salmon
+bairdiella chrysoura
+baltic herring
+barbatula barbatula
+barbus barbus
+barbus petenyi
+basa
+black crappie
+blackchin shiner
+blacknose dace
+bluefin
+brill
+brook stickleback
+brown bullhead
+butterfly kingfish
+butterlips
+california roach
+callichthyinae
+campostoma anomalum
+carassius carassius
+carassius cuvieri
+carcharhinus leucas
+catostomus commersonii
+charr
+chlamydoselachus anguineus
+clarias gariepinus
+coalfish
+cobitis taenia
+codfish
+coho
+confluentus
+coregonus albula
+coregonus clupeaformis
+coregonus lavaretus
+coreoperca kawamebari
+creek chubsucker
+creek chubsuckers
+ctenopharyngodon idella
+cutthroats
+cyprinus carpio
+dicentrarchus labrax
+dolly varden
+dolly varden char
+dolly varden trout
+dolphinfish
+dourada
+dover sole
+echinorhinus brucus
+eel catfish
+electrophorus
+engraulis encrasicolus
+epinephelus akaara
+esox lucius
+esox masquinongy
+eurasian ruffe
+european eel
+fallfish
+fathead
+fish
+fishes
+fluke
+fluviatilis
+freshwater drum
+galapagos shark
+galeus melastomus
+gambusia affinis
+gaspereau
+gasterosteus aculeatus
+gobio
+grass pickerel
+green sunfish
+greenland halibut
+groundfish
+groundfishes
+gulper shark
+hog sucker
+hornpout
+ictalurus furcatus
+ictalurus punctatus
+jau
+julimes pupfish
+kakap merah
+king mackerel
+king salmon
+kingfish
+kokanee salmon
+lake sturgeon
+lampern
+largehmouth bass
+lepisosteus oculatus
+lepomis cyanellus
+lepomis gibbosus
+lepomis macrochirus
+leucaspius delineatus
+leuciscus cephalus
+leuciscus leuciscus
+lieu jaune
+longear sunfish
+lutjanus bohar
+lutjanus campechanus
+lutjanus dentatus
+macquaria australasica
+macquarie perch
+macrochirus
+mahi mahi
+makaira indica
+megachasma pelagios
+micromesistius poutassou
+micropterus cataractae
+micropterus dolomieu
+micropterus dolomieui
+micropterus punctulatus
+micropterus salmoides
+mirror carp
+morone saxatilis
+mossambicus
+mountain whitefish
+mudminnow
+mugil cephalus
+mulloway
+mullus barbatus
+mullus surmuletus
+muskellunge
+muskie
+muskies
+musky
+nannygai
+nemacheilus barbatulus
+nile perch
+nile tilapia
+northern lake trout
+oncorhynchus aguabonita
+oncorhynchus clarki
+oncorhynchus gorbuscha
+oncorhynchus keta
+oncorhynchus kisutch
+oncorhynchus masou
+oncorhynchus mykiss
+oncorhynchus tshawytscha
+oncorhyncus mykiss
+order siluriformes
+oreochromis aureus
+oreochromis mossambicus
+oreochromis niloticus
+orfe
+osmerus mordax
+osphronemus goramy
+pacific lamprey
+perca flavescens
+perca fluviatilis
+pike perch
+pikeminnow
+pikeperches
+pleuronectes platessa
+pollack
+pollan
+polyodon spathula
+pomoxis nigromaculatus
+porbeagle
+powan
+prionace glauca
+pumpkinseed
+pumpkinseed sunfish
+pylodictis olivaris
+queenfish
+raphael catfish
+redear sunfish
+redfin
+redfin perch
+redfin pickerel
+redhorse
+reef shark
+rhinichthys atratulus
+river blackfish
+river lamprey
+rockcod
+rutilus rutilus
+sac lait
+saithe
+salmo salar
+salvelinus
+salvelinus namaycush
+sander lucioperca
+sardina pilchardus
+sardinops
+saugeye
+sawshark
+sea perch
+seatrout
+seriola lalandi
+sheefish
+shellcracker
+shortfin mako
+siluris
+silurus asotus
+silurus glanis
+silver bream
+silver perch
+silver salmon
+smallmouth
+smallmouth bass
+smolts
+sockeye
+splake
+squalius cephalus
+steelhead trout
+sterlet
+stone loach
+stone moroko
+stoneroller
+striped bass
+suckerfish
+suckermouth catfish
+swellsharks
+tautog
+thunnus albacares
+thymallus arcticus
+thymallus thymallus
+tiger muskellunge
+tiger muskie
+tiger trout
+tomcod
+topminnow
+trisopterus minutus
+trutta
+trutta fario
+tui chub
+tullibee
+wall eye
+weakfish
+westslope cutthroat
+white crappie
+white perch
+white sturgeon
+whitetip shark
+winter flounder
+xiphias gladius
+xyrauchen texanus
+yellowfin
+yellowstone cutthroat
+zoarces viviparus
